@@ -1,0 +1,12 @@
+/**/.classpath
+/**/.metadata
+/**/*.project
+/**/*.settings
+/**/*.tern-project
+/**/EarContent
+/**/bin
+/**/target
+!/**/.s2i/bin
+/**/.recommenders
+/**/.DS_Store
+/home/t0665683/dev/workspace_spring_tools/projeto_teste/.metadata/
